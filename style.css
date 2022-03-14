@@ -42,7 +42,7 @@
 
 .shop2-parallax {
   width: 100%;
-  height: 580px;
+  height: 550px;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -50,13 +50,23 @@
   text-shadow: 1px 2px black;
 }
 
-.about-parallax {
+.about1-parallax {
   width: 100%;
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-image: url("https://gemstagram.b-cdn.net/wp-content/uploads/2020/06/orange-stones.jpg");
+}
+
+.about2-parallax {
+  width: 100%;
+  height: 550px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://www.gardeningknowhow.com/wp-content/uploads/2018/03/gemstones-1.jpg");
+  text-shadow: 1px 2px black;
 }
 
 .drops,
@@ -80,7 +90,8 @@
 
 .blog h3,
 .drops h3,
-.shopcatelog h3 {
+.shopcatelog h3,
+.about h3 {
   text-shadow: 1px 2px purple;
 }
 
