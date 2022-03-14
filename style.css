@@ -1,0 +1,102 @@
+.jumbotron-fluid {
+  position: relative;
+  width: 100%;
+  height: 900px;
+  background-image: url("https://hips.hearstapps.com/hmg-prod/images/close-up-of-gemstones-royalty-free-image-1608654719.");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-shadow: 1px 1px black;
+}
+
+.home1-parallax {
+  width: 100%;
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://cdn.shopify.com/s/files/1/0273/4214/3566/files/Untitled_design_-_2020-12-22T150806.961.jpg?v=1608642499");
+  text-shadow: 1px 2px black;
+}
+
+.home2-parallax {
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://images.f2fcdn.net/files/amel/new/quartzcrystals.jpg");
+  text-shadow: 1px 1.5px rgb(119, 5, 43);
+}
+
+.shop1-parallax {
+  width: 100%;
+  height: 380px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://wallpaperaccess.com/full/1854925.jpg");
+  text-shadow: 2px 1.5px black;
+}
+
+.shop2-parallax {
+  width: 100%;
+  height: 580px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://www.astteria.com/blog/wp-content/uploads/2021/06/aquarmarine.jpeg");
+  text-shadow: 1px 2px black;
+}
+
+.about-parallax {
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url("https://gemstagram.b-cdn.net/wp-content/uploads/2020/06/orange-stones.jpg");
+}
+
+.drops,
+.newsletter {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.card.h-70:hover {
+  transform: translate(0, -0.75em);
+}
+
+.blog img {
+  max-width: 100%;
+  height: 300px;
+}
+
+.blog h5 {
+  text-shadow: 1px 1px rgb(118, 130, 241);
+}
+
+.blog h3,
+.drops h3,
+.shopcatelog h3 {
+  text-shadow: 1px 2px purple;
+}
+
+.shopcatelog img,
+.drops img {
+  max-width: 100%;
+  height: 200px;
+}
+
+.footer a:link {
+  text-decoration: none;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
